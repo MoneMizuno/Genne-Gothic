@@ -1,0 +1,391 @@
+[SourceHanSans-ExtraLight]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF ExtraLight
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 ExtraLight
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 ExtraLight
+	f=Genne Gothic
+	s=ExtraLight
+	l=Genne Gothic ExtraLight
+
+[SourceHanSans-Light]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Light
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Light
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Light
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Light
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Light
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Light
+	f=Genne Gothic
+	s=Light
+	l=Genne Gothic Light
+
+[SourceHanSans-Normal]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Normal
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Normal
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Normal
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Normal
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Normal
+	f=Genne Gothic
+	s=Normal
+	l=Genne Gothic Normal
+
+[SourceHanSans-Regular]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Regular
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Regular
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Regular
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Regular
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Regular
+	f=Genne Gothic
+	s=Regular
+	l=Genne Gothic Regular
+
+[SourceHanSans-Medium]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Medium
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Medium
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Medium
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Medium
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Medium
+	f=Genne Gothic
+	s=Medium
+	l=Genne Gothic Medium
+
+[SourceHanSans-Bold]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Bold
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Bold
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Bold
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Bold
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Bold
+	f=Genne Gothic
+	s=Bold
+	l=Genne Gothic Bold
+
+[SourceHanSans-Heavy]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Heavy
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Heavy
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Heavy
+	f=Genne Gothic
+	s=Heavy
+	l=Genne Gothic Heavy
+
+[SourceHanSansK-ExtraLight]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF ExtraLight
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 ExtraLight
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 ExtraLight
+	f=Genne Gothic
+	s=ExtraLight
+	l=Genne Gothic ExtraLight
+
+[SourceHanSansK-Light]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Light
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Light
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Light
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Light
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Light
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Light
+	f=Genne Gothic
+	s=Light
+	l=Genne Gothic Light
+
+[SourceHanSansK-Normal]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Normal
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Normal
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Normal
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Normal
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Normal
+	f=Genne Gothic
+	s=Normal
+	l=Genne Gothic Normal
+
+[SourceHanSansK-Regular]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Regular
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Regular
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Regular
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Regular
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Regular
+	f=Genne Gothic
+	s=Regular
+	l=Genne Gothic Regular
+
+[SourceHanSansK-Medium]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Medium
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Medium
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Medium
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Medium
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Medium
+	f=Genne Gothic
+	s=Medium
+	l=Genne Gothic Medium
+
+[SourceHanSansK-Bold]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Bold
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Bold
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Bold
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Bold
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Bold
+	f=Genne Gothic
+	s=Bold
+	l=Genne Gothic Bold
+
+[SourceHanSansK-Heavy]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Heavy
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Heavy
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Heavy
+	f=Genne Gothic
+	s=Heavy
+	l=Genne Gothic Heavy
+
+[SourceHanSansSC-ExtraLight]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF ExtraLight
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 ExtraLight
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 ExtraLight
+	f=Genne Gothic
+	s=ExtraLight
+	l=Genne Gothic ExtraLight
+
+[SourceHanSansSC-Light]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Light
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Light
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Light
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Light
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Light
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Light
+	f=Genne Gothic
+	s=Light
+	l=Genne Gothic Light
+
+[SourceHanSansSC-Normal]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Normal
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Normal
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Normal
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Normal
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Normal
+	f=Genne Gothic
+	s=Normal
+	l=Genne Gothic Normal
+
+[SourceHanSansSC-Regular]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Regular
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Regular
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Regular
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Regular
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Regular
+	f=Genne Gothic
+	s=Regular
+	l=Genne Gothic Regular
+
+[SourceHanSansSC-Medium]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Medium
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Medium
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Medium
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Medium
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Medium
+	f=Genne Gothic
+	s=Medium
+	l=Genne Gothic Medium
+
+[SourceHanSansSC-Bold]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Bold
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Bold
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Bold
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Bold
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Bold
+	f=Genne Gothic
+	s=Bold
+	l=Genne Gothic Bold
+
+[SourceHanSansSC-Heavy]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Heavy
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Heavy
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Heavy
+	f=Genne Gothic
+	s=Heavy
+	l=Genne Gothic Heavy
+
+[SourceHanSansTC-ExtraLight]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF ExtraLight
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 ExtraLight
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 ExtraLight
+	f=Genne Gothic
+	s=ExtraLight
+	l=Genne Gothic ExtraLight
+
+[SourceHanSansTC-Light]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Light
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Light
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Light
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Light
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Light
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Light
+	f=Genne Gothic
+	s=Light
+	l=Genne Gothic Light
+
+[SourceHanSansTC-Normal]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Normal
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Normal
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Normal
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Normal
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Normal
+	f=Genne Gothic
+	s=Normal
+	l=Genne Gothic Normal
+
+[SourceHanSansTC-Regular]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Regular
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Regular
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Regular
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Regular
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Regular
+	f=Genne Gothic
+	s=Regular
+	l=Genne Gothic Regular
+
+[SourceHanSansTC-Medium]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Medium
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Medium
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Medium
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Medium
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Medium
+	f=Genne Gothic
+	s=Medium
+	l=Genne Gothic Medium
+
+[SourceHanSansTC-Bold]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Bold
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Bold
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Bold
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Bold
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Bold
+	f=Genne Gothic
+	s=Bold
+	l=Genne Gothic Bold
+
+[SourceHanSansTC-Heavy]
+	f=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\6E90\97F3\30B4\30B7\30C3\30AF Heavy
+	f=3,1,0x404,\6E90\97F3\9ED1\9AD4
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,\6E90\97F3\9ED1\9AD4 Heavy
+	f=3,1,0x804,\6E90\97F3\9ED1\4F53
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,\6E90\97F3\9ED1\4F53 Heavy
+	f=Genne Gothic
+	s=Heavy
+	l=Genne Gothic Heavy

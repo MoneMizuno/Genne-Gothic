@@ -1,0 +1,84 @@
+﻿2018/4/24 “Genne Gothic” Version 1.004;1.004
+
+移除“Radical_and_CMap_Genne Gothic.html”裏的CMap替換表。
+修改「稽」、「告」……等字的映射，詳情請參考CMap替換表。
+
+
+
+2017/9/14 “Genne Gothic” Version 1.003;1.004
+
+將其他應該從「𧶠」的字修改映射。
+從此版本起如無特殊原因，將不更新“Radical_and_CMap_Genne Gothic_v x.xxx.xxxx .html”。
+
+
+
+2017/7/10 “Genne Gothic” Version 1.002;1.004
+
+還原「飠」(U+98E0)字的映射。
+撤銷「𣍝」(U+2335D)字的映射。
+還原「有」(U+6709)字的映射。
+修改「讀」(U+8B80)字的映射。
+以Source Han Sans TC的ps檔案為基礎重新生成了字型。
+
+
+
+2017/4/24 “Genne Gothic” Version 1.001;1.004
+
+將「萌」字映射到月部件不觸豎的「萌」(CID+62607)字。
+將「、。，．」映射到置中的版本。
+修改CFF表的FontBBox參數，將數值改為0 -120 1000 880，以修正部分軟體出現基線下方空白問題。
+移除Features的GSUB表「'locl'本地化形式 查找 37」LookUp表的內部資料，以在日文語言環境下不會套用其他字形。
+移除Features的GSUB表「'locl'本地化形式 查找 38」LookUp表的內部資料，以在韓文語言環境下不會套用其他字形。
+
+
+
+2017/4/1 “Genne Gothic” Version 1.000;1.004
+
+修改字型名稱，“Source”為Adobe的產品，為避免衍生字型與官方字型混淆，以及侵權，所以將字型名稱做了修改。
+將「教」字的映射對應為「敎」。
+
+
+
+2017/3/23 “Old Form TC” Version Alpha 1.00.0006;1.004
+
+撤銷「啟群」的變更，改為上一版本的對應。
+含有「周、告」的部件改為穿頭。
+
+
+
+2017/3/21 “Old Form TC” Version Alpha 1.00.0005;1.004
+
+更換「眾」字的映射。
+
+
+
+2017/3/21 “Old Form TC” Version Alpha 1.00.0004;1.004
+
+更換「查鄉啟群音月」等字的映射，詳情請參閱“Radical_and_CMap_Genne Gothic_v1.001.0001.html”檔案。
+
+
+
+2017/2/16 “Old Form TC” Version Alpha 1.00.0003;1.004
+
+移除Features的GSUB表「'locl'本地化形式 查找 39」LookUp表的內部資料，以讓在簡體中文環境下不會套用中國大陸新字形。
+
+
+
+2017/2/2 “Old Form TC” Version Alpha 1.00.0002;1.004
+
+修改PostScript名稱，以讓名稱統一。
+修改OS/2語言標籤對應，增加繁體中文。
+
+
+
+2017/1/21 “Old Form TC” Version Alpha 1.00.0001;1.004
+
+字型更名為“Old Form TC”，復原部分CID映射回原始狀態。
+
+
+
+“Kang Xi”
+
+未記錄。
+
+此字型基於思源黑體韓國版修改而來。
